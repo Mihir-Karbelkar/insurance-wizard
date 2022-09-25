@@ -4,9 +4,13 @@ Wizard for insurance onboarding. Uses context, react hook form and chakra ui to 
 
 [Demo Site](https://insurance-onboarding.netlify.app/).
 
-## Available Scripts
+## Steps to install
 
-In the project directory, you can run:
+Install packages:
+
+### `yarn install`
+
+Run the app locally:
 
 ### `yarn start`
 
