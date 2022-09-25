@@ -57,7 +57,7 @@ const FormPreview = (props: FormPreviewProps) => {
         </Box>{' '}
         <Box display={'flex'} justifyContent="space-between">
           <FormLabel flex={1}>State</FormLabel>
-          <FormLabel flex={1} color={TEXT_GRAY_500} maxW="200px">
+          <FormLabel flex={1} color={TEXT_GRAY_500}>
             <OverflownText>{wizardData?.state || '-'}</OverflownText>
           </FormLabel>
         </Box>
